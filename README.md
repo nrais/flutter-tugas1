@@ -1,7 +1,7 @@
 ## Flutter_Tugas1
 
 ## Mobile Programming 2
-  -Ica Siti Nuraisah (232101319)
+  - Ica Siti Nuraisah (232101319)
   - Selly Oktapaeni (232101373)
   - Nabila Ramadani N.(232101337)
 
